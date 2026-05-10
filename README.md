@@ -150,7 +150,7 @@ target/site/jacoco/index.html
 
 ### Captura del Reporte JaCoCo
 
-![Reporte JaCoCo](docs/jacoco-report.png)
+![Reporte JaCoCo](capturas/jacoco-report.png)
 
 **Resultados:**
 
